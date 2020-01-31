@@ -1,4 +1,4 @@
-package zoo;
+package zoo.src;
 
 /*Zookeeper class
  * can: wakeup animals, roll call animals, feed animals, excercise animals, shutdown the zoo
